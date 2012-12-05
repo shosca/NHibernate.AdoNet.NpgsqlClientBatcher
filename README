@@ -1,0 +1,4 @@
+NHibernate client side batcher for Npgsql
+
+Set adonet.factory_class to NHibernate.AdoNet.NpgsqlBatcherFactory
+in nhibernate config to use it
